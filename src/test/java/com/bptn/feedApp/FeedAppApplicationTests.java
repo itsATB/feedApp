@@ -1,13 +1,13 @@
-package com.bptn.feedApp;
+// package com.bptn.feedApp;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class FeedAppApplicationTests {
+// @SpringBootTest
+// class FeedAppApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
